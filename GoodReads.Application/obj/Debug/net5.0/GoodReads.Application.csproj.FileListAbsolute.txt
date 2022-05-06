@@ -1,0 +1,60 @@
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Application.deps.json
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Application.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Application.pdb
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Domain.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Domain.pdb
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.csproj.AssemblyReference.cache
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.AssemblyInfoInputs.cache
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.AssemblyInfo.cs
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.csproj.CopyComplete
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\refint\GoodReads.Application.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.pdb
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\ref\GoodReads.Application.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Application.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Application.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Application.pdb
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Domain.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Domain.pdb
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\refint\GoodReads.Application.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.pdb
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\ref\GoodReads.Application.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Application.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Application.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Application.pdb
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Domain.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Domain.pdb
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\refint\GoodReads.Application.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.pdb
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\ref\GoodReads.Application.dll
+D:\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Application.deps.json
+D:\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Application.dll
+D:\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Application.pdb
+D:\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Domain.dll
+D:\GoodReads\GoodReads\GoodReads.Application\bin\Debug\net5.0\GoodReads.Domain.pdb
+D:\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.csproj.AssemblyReference.cache
+D:\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.AssemblyInfoInputs.cache
+D:\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.AssemblyInfo.cs
+D:\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.csproj.CoreCompileInputs.cache
+D:\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.csproj.CopyComplete
+D:\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.dll
+D:\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\refint\GoodReads.Application.dll
+D:\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\GoodReads.Application.pdb
+D:\GoodReads\GoodReads\GoodReads.Application\obj\Debug\net5.0\ref\GoodReads.Application.dll

@@ -1,0 +1,240 @@
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.exe
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.deps.json
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.runtimeconfig.json
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.runtimeconfig.dev.json
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.pdb
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.csproj.AssemblyReference.cache
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.AssemblyInfoInputs.cache
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.AssemblyInfo.cs
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\scopedcss\bundle\GoodReads.Api.styles.css
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\staticwebassets\GoodReads.Api.StaticWebAssets.Manifest.cache
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.csproj.CopyComplete
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\refint\GoodReads.Api.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.pdb
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.genruntimeconfig.cache
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\ref\GoodReads.Api.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Application.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Domain.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Infrastructure.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Application.pdb
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Infrastructure.pdb
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Domain.pdb
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hoang Ho\Desktop\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.exe
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.pdb
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Application.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Domain.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Infrastructure.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Application.pdb
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Infrastructure.pdb
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Domain.pdb
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\scopedcss\bundle\GoodReads.Api.styles.css
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\staticwebassets\GoodReads.Api.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\refint\GoodReads.Api.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.pdb
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyProject\MyProject\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\ref\GoodReads.Api.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.exe
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.pdb
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Application.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Domain.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Infrastructure.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Application.pdb
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Infrastructure.pdb
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Domain.pdb
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\scopedcss\bundle\GoodReads.Api.styles.css
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\staticwebassets\GoodReads.Api.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\refint\GoodReads.Api.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.pdb
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\ref\GoodReads.Api.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Swashbuckle.Core.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\OneDrive\Máy tính\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\appsettings.json
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.exe
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.deps.json
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.runtimeconfig.json
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.runtimeconfig.dev.json
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Api.pdb
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\AutoMapper.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Humanizer.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Web.Http.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\Swashbuckle.Core.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Security.AccessControl.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Application.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Domain.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Infrastructure.dll
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Application.pdb
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Infrastructure.pdb
+D:\GoodReads\GoodReads\GoodReads.Api\bin\Debug\net5.0\GoodReads.Domain.pdb
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.csproj.AssemblyReference.cache
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.AssemblyInfoInputs.cache
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.AssemblyInfo.cs
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.csproj.CoreCompileInputs.cache
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\scopedcss\bundle\GoodReads.Api.styles.css
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\staticwebassets\GoodReads.Api.StaticWebAssets.Manifest.cache
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.RazorTargetAssemblyInfo.cache
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.csproj.CopyComplete
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.dll
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\refint\GoodReads.Api.dll
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.pdb
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\GoodReads.Api.genruntimeconfig.cache
+D:\GoodReads\GoodReads\GoodReads.Api\obj\Debug\net5.0\ref\GoodReads.Api.dll
